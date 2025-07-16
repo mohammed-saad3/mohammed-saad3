@@ -5,22 +5,20 @@
   <a href="https://github.com/mohammedsaad">
     <img src="https://komarev.com/ghpvc/?username=mohammedsaad" alt="Profile Views" />
   </a>
-<a href="https://www.linkedin.com/in/mohammed-saad-445774328/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">
-</a>
-
-
+  <a href="https://www.linkedin.com/in/mohammed-saad-445774328/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">
+  </a>
 </p>
 
 <a href="#mohammedsaad-title">
   <img src="https://raw.githubusercontent.com/mohammedsaad/github-stats-transparent/output/generated/overview.svg" alt="mohammedsaad stats" align="right" />
 </a>
 
-- 🔧 I write code using **C / C++ / Python**
-- 🔬 I work on real-world projects using **Arduino, ESP32, and Raspberry Pi**
-- 💡 I build solutions in **Embedded Systems, Internet of Things (IoT), Artificial Intelligence**, and **Data Analysis**
-- 🎓 I deliver technical workshops and training sessions for beginners and professionals
-- 📫 Connect with me on [LinkedIn]([https://www.linkedin.com/in/mohammedsaad](https://www.linkedin.com/in/mohammed-saad-445774328/))
+- 🔧 I write code using **C / C++ / Python**  
+- 🔬 I work on real-world projects using **Arduino, ESP32, and Raspberry Pi**  
+- 💡 I build solutions in **Embedded Systems, Internet of Things (IoT), Artificial Intelligence**, and **Data Analysis**  
+- 🎓 I deliver technical workshops and training sessions for beginners and professionals  
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohammed-saad-445774328/)
 
 ---
 
@@ -73,4 +71,3 @@
 
 <!-- prettier-ignore-start -->
 <!-- START_SECTION:ascii_graph -->
-
