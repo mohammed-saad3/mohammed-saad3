@@ -1,9 +1,9 @@
-<h1 align="left" id="mohammedsaad-title">👋 مرحباً! أنا محمد سعد</h1>
-<h3 align="left">مهندس إلكترونيك واتصالات، أعمل على مشاريع المتحكمات الدقيقة، الذكاء الاصطناعي، وتحليل البيانات</h3>
+<h1 align="left" id="mohammedsaad-title">👋 Hello! I'm Mohammed Saad</h1>
+<h3 align="left">Electronics and Communications Engineer | Embedded Systems Developer | AI and Data Analysis Enthusiast</h3>
 
 <p align="left">
   <a href="https://github.com/mohammedsaad">
-    <img src="https://komarev.com/ghpvc/?username=mohammedsaad" alt="عدد زوار الصفحة" />
+    <img src="https://komarev.com/ghpvc/?username=mohammedsaad" alt="Profile Views" />
   </a>
   <a href="https://www.linkedin.com/in/mohammedsaad">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">
@@ -14,17 +14,17 @@
   <img src="https://raw.githubusercontent.com/mohammedsaad/github-stats-transparent/output/generated/overview.svg" alt="mohammedsaad stats" align="right" />
 </a>
 
-- 🔧 أبرمج باستخدام: **C / C++ / Python**
-- 🛠️ أعمل على مشاريع: **Arduino, ESP32, Raspberry Pi**
-- 💡 أُطور حلولاً في: **الأنظمة المدمجة، إنترنت الأشياء، الذكاء الاصطناعي، وتحليل البيانات**
-- 🧑‍🏫 أُقدم ورش ودورات تدريبية في مجالات التقنية
-- 📫 تواصل معي عبر [LinkedIn](https://www.linkedin.com/in/mohammedsaad)
+- 🔧 I write code using **C / C++ / Python**
+- 🔬 I work on real-world projects using **Arduino, ESP32, and Raspberry Pi**
+- 💡 I build solutions in **Embedded Systems, Internet of Things (IoT), Artificial Intelligence**, and **Data Analysis**
+- 🎓 I deliver technical workshops and training sessions for beginners and professionals
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohammedsaad)
 
 ---
 
-## 💻 التقنيات المفضلة
+## 💻 Tech Stack
 
-> الأدوات واللغات التي أستخدمها يوميًا:
+> Tools and languages I work with regularly:
 
 <table>
   <tr>
@@ -65,11 +65,10 @@
 
 ---
 
-## 📈 النشاط البرمجي
+## 📈 Coding Activity
 
-> وقت البرمجة المسجل في مشاريع مفتوحة المصدر:
+> My recent programming activity in open-source projects:
 
 <!-- prettier-ignore-start -->
 <!-- START_SECTION:ascii_graph -->
-
 
