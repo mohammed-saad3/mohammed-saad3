@@ -17,7 +17,7 @@
 - 🔬 I work on real-world projects using **Arduino, ESP32, and Raspberry Pi**
 - 💡 I build solutions in **Embedded Systems, Internet of Things (IoT), Artificial Intelligence**, and **Data Analysis**
 - 🎓 I deliver technical workshops and training sessions for beginners and professionals
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohammedsaad)
+- 📫 Connect with me on [LinkedIn]([https://www.linkedin.com/in/mohammedsaad](https://www.linkedin.com/in/mohammed-saad-445774328/))
 
 ---
 
