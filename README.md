@@ -5,11 +5,10 @@
   <a href="https://github.com/mohammedsaad">
     <img src="https://komarev.com/ghpvc/?username=mohammedsaad" alt="Profile Views" />
   </a>
-<a href="www.linkedin.com/in/
-mohammed-saad-445774328
-">
+<a href="https://www.linkedin.com/in/mohammed-saad-445774328/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">
 </a>
+
 </p>
 
 <a href="#mohammedsaad-title">
